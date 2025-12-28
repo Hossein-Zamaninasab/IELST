@@ -74,10 +74,6 @@ The system is built for high concurrency and low latency, ensuring that AI evalu
 ### 💾 Relational Database Design
 The architecture ensures data integrity and high-speed retrieval for cumulative practice logging and SRS scheduling.
 
-<p align="center">
-  <img src="screenshots/image_9ed7c7.png" width="800" alt="Database Schema">
-</p>
-
 ---
 
 ## 🔬 Project Status & Scientific Portfolio Note
