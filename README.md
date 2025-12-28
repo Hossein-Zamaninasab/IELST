@@ -26,7 +26,7 @@ The core of the vocabulary system is built upon the **Ebbinghaus Forgetting Curv
 * **Native Audio Integration:** Instant phonetic feedback for auditory reinforcement.
 
 <p align="center">
-  <img src="screenshots/photo_2025-12-28_06-00-27.jpg" width="600" alt="Vocab Mastery Interface">
+  <img src="https://github.com/user-attachments/assets/e25bfa8b-0282-4b7b-9fb3-7eeb823ac244" width="600" alt="Vocab Mastery Interface">
 </p>
 
 ---
@@ -39,7 +39,7 @@ This module simulates high-stakes cognitive tasks by requiring users to interpre
 * **WPM Metrics:** Monitors retrieval speed and cognitive load through real-time "Words Per Minute" tracking.
 
 <p align="center">
-  <img src="screenshots/photo_2025-12-28_06-00-33.jpg" width="600" alt="Interpreting Practice Interface">
+  <img src="photo_2025-12-28_06-00-33](https://github.com/user-attachments/assets/24a5a25d-b9ee-4122-b643-60f04554d3a3" width="600" alt="Interpreting Practice Interface">
 </p>
 
 ---
@@ -51,14 +51,14 @@ IELST™ transforms every practice session into actionable data. The system moni
 The platform calculates predicted band scores for each skill (Reading, Writing, Listening, Speaking) based on a weighted matrix of practice volume and mastery levels.
 
 <p align="center">
-  <img src="screenshots/photo_2025-12-28_06-00-29.jpg" width="600" alt="Progress Line Chart">
+  <img src="https://github.com/user-attachments/assets/d842b521-d945-4812-ae3e-2d36ed0fd166" width="600" alt="Progress Line Chart">
 </p>
 
 ### 🧪 The Learning Funnel
 The **Neural Lexical Funnel** visualizes the flow of vocabulary through the SRS pipeline, distinguishing between "Encountered", "Reviewing", and "Mastered" states.
 
 <p align="center">
-  <img src="screenshots/photo_2025-12-28_06-00-31.jpg" width="600" alt="Learning Funnel Chart">
+  <img src="https://github.com/user-attachments/assets/26150247-f278-4df9-b379-f7599760e013" width="600" alt="Learning Funnel Chart">
 </p>
 
 ---
