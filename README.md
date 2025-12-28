@@ -39,7 +39,7 @@ This module simulates high-stakes cognitive tasks by requiring users to interpre
 * **WPM Metrics:** Monitors retrieval speed and cognitive load through real-time "Words Per Minute" tracking.
 
 <p align="center">
-  <img src="photo_2025-12-28_06-00-33](https://github.com/user-attachments/assets/24a5a25d-b9ee-4122-b643-60f04554d3a3" width="600" alt="Interpreting Practice Interface">
+  <img src="https://github.com/user-attachments/assets/24a5a25d-b9ee-4122-b643-60f04554d3a3" width="600" alt="Interpreting Practice Interface">
 </p>
 
 ---
