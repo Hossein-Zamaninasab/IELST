@@ -12,7 +12,7 @@
 IELST™ provides an integrated dashboard where users can manage their learning journey through four critical axes: Vocabulary Mastery, Real-Time Interpreting, Reading/Writing Academy, and Deep Analytics.
 
 <p align="center">
-  <img src="![photo_2025-12-28_06-00-24](https://github.com/user-attachments/assets/3a50cb7d-546b-4fe1-9c16-e48b4785a2e4)" width="800" alt="IELST Dashboard Overview">
+  <img src="https://github.com/user-attachments/assets/3a50cb7d-546b-4fe1-9c16-e48b4785a2e4" width="800" alt="IELST Dashboard Overview">
 </p>
 
 ---
