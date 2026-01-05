@@ -1,6 +1,6 @@
 # IELST™: Advanced AI-Interpreting & Cognitive Learning Ecosystem
 
-> **"Speak correctly."**
+> **"Speak correctly!"**
 > IELST™ is a high-performance language acquisition platform that merges **State-of-the-Art (SOTA) AI models** with **Cognitive Science** principles. It is designed to bridge the gap between theoretical knowledge and real-time linguistic performance.
 
 🔗 **System Access:** [IELST™ Portal](https://www.ankommen-in-niedersachsen.com/IELST)  
